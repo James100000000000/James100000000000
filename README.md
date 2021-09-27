@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @James100000000000
+- 👋 Hi, I’m James
 - 👀 I’m interested in ... Learning oop
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on creating small branch program
